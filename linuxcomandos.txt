@@ -10,4 +10,4 @@ Comandos Linux Basicos
 4) cd .. : retrocedes una carpeta.
 
 5)
-git
+petardos

@@ -1,0 +1,13 @@
+Comandos Linux Basicos
+
+
+1) pwd : saber donde estoy parado.
+
+2) ls : que archivos hay donde estoy parado.
+
+3) cd nombre_de_la_carpeta : entrar a una carpeta.
+
+4) cd .. : retrocedes una carpeta.
+
+5)
+git
